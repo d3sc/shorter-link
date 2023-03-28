@@ -8,11 +8,19 @@ Shorter Link is useful for shortening links with the TUI view.
 git clone https://github.com/d3sc/shorter-link.git
 ```
 
-## Dependencies:
+## Requirement:
 
-Shorter link depends on the `nodejs`.
+Shorter link is need `nodejs`.
 
 ## Usage
 ```console
-usage: app -u "https://example.com"
- ```
+node app -u "https://example.com"
+```
+ 
+```
+ node app -h
+ 
+ Options
+ -h                 help command
+ -u <url>           set target url
+```
