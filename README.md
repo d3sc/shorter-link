@@ -1,6 +1,6 @@
 ## About Shorter-link
 
-Shorter Link is useful for shortening links with the TUI view.
+Shorter Link is useful for shortening links.
 
 ## Installation
 
